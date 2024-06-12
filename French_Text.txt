@@ -1,0 +1,7 @@
+kitchen_instructions:Trouver les éléments nécessaires pour fair un gâteau
+correct:C’est vrai!
+complete:Bien joué!
+incorrect:Pas tout à fait, réessayez!
+kitchen_prompt:Comment ça s’appelle en français?
+living_room_instructions:Trouver les livres à mettre sur l’étagère
+living_room_prompt:Quelle est la couleur de ce livre?

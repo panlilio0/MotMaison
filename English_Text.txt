@@ -1,0 +1,7 @@
+kitchen_instructions:Find the items needed to make a cake
+correct:Correct!
+complete:Good Job!
+incorrect:Not exactly, try again!
+kitchen_prompt:What is this called in French?
+living_room_instructions:Find the books to put on the bookshelf
+living_room_prompt:What color is this book?
